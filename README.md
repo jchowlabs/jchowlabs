@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jchowlabs!
-- 👀 I'm interested in 
+- 👀 I'm interested in: 
    - Decentralized identity systems,
    - Strong identity proofing mechanisms,
    - Zero-knowledge-proofs, 
