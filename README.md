@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @jchowlabs!
-- 👀 I'm interested in all things identity security:
+- 👀 I'm interested in 
    - Decentralized identity systems,
    - Strong identity proofing mechanisms,
-   - Continuous authentication / passwordless authentication,
    - Zero-knowledge-proofs, 
-   - Web3
+   - Deep fakes,
+   - Adversarial neural networks,
    - and more...:sunglasses:
 - 📫 Connect with me on Linkedin, Twitter, Medium to collaborate.
 
