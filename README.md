@@ -3,9 +3,7 @@ Hello, I’m Jason 👋
 I’m an AI and security advisor focused on identity security and applied AI systems in the context of consumer and enterprise organizations. Most of my repositories are experimental prototypes, security research, and academic resources.
 
 
-⸻
-
-🔍 What I Work On
+##What I Work On
 	•	🪪 Identity & Authentication Security
 Identity providers, authentication architecture, and secure identity systems.
 	•	🤖 AI Agents & Security
@@ -17,9 +15,7 @@ Building experimental systems that combine LLMs, identity infrastructure, and au
 	•	✍️ Research & Writing
 Research notes, security analysis, and academic explorations of AI and identity systems.
 
-⸻
-
-🧪 What You’ll Find in My Repositories
+##What You’ll Find in My Repositories
 
 Most projects here fall into a few categories:
 	•	Experimental AI + security prototypes
@@ -28,7 +24,6 @@ Most projects here fall into a few categories:
 	•	Research artifacts and academic work
 	•	Small tools used for identity and AI experimentation
 
-⸻
 
 🌐 More Information
 	•	Website: https://jchowlabs.com
