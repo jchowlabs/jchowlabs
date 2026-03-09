@@ -4,8 +4,6 @@ I'm an AI and security advisor focused on identity security and applied AI syste
 
 Most of my repositories contain experimental prototypes, security research, and academic resources related to identity infrastructure, AI agents, and conversational systems.
 
----
-
 ## 📚 What I Work On
 
 - 🪪 Identity Security
@@ -13,8 +11,6 @@ Most of my repositories contain experimental prototypes, security research, and 
 - 🗣️ Conversational AI
 - 🛡️ AI Agent Security
 - ✍️ Research & Writing
-
----
 
 ## 🔎 My Repositories
 
@@ -25,8 +21,6 @@ My repositories typically include:
 - Lightweight tools and foundational primitives  
 - Research artifacts and academic work  
 - Security-focused utilities and tooling  
-
----
 
 ## 🌐 More Information
 
