@@ -1,8 +1,6 @@
 # Hello, I'm Jason 👋
 
-I'm an AI and security advisor focused on identity security and applied AI systems for both consumer and enterprise environments.  
-
-Most of my repositories contain experimental prototypes, security research, and academic resources related to identity infrastructure, AI agents, and conversational systems.
+I'm an AI and security advisor focused on identity security and applied AI systems for both consumer and enterprise environments. Most of my repositories contain experimental prototypes, security research, and academic resources related to identity infrastructure, AI agents, and conversational systems.
 
 ## Focus Areas:
 
