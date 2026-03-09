@@ -4,7 +4,7 @@ I'm an AI and security advisor focused on identity security and applied AI syste
 
 Most of my repositories contain experimental prototypes, security research, and academic resources related to identity infrastructure, AI agents, and conversational systems.
 
-## 📚 I Work On:
+## 📚 Focus Areas:
 
 - 🪪 Identity Security
 - 🤖 AI Agents & Automation
