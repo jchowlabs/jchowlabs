@@ -24,4 +24,4 @@ My repositories typically include:
 
 ## 🌐 More Information
 
-- Website: https://jchowlabs.c
+- Website: https://jchowlabs.com
