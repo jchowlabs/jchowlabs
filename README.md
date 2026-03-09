@@ -8,7 +8,7 @@ I’m an AI and security advisor focused on identity security and applied AI sys
 
 ## 🔬 What I Work On
 
-- 🪪 **Identity Security (ID Verification and Advanced Authentication)**
+- 🪪 **Identity Security**
 - 🤖 **AI Agents & Automation**
 - 🎙️ **Conversational AI**
 - 🛡️ **Agent Security**
