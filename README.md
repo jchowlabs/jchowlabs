@@ -4,7 +4,7 @@ I'm an AI and security advisor focused on identity security and applied AI syste
 
 Most of my repositories contain experimental prototypes, security research, and academic resources related to identity infrastructure, AI agents, and conversational systems.
 
-## 📚 Focus Areas:
+## Focus Areas:
 
 - 🪪 Identity Security
 - 🤖 AI Agents & Automation
@@ -12,7 +12,7 @@ Most of my repositories contain experimental prototypes, security research, and 
 - 🛡️ AI Agent Security
 - ✍️ Research & Writing
 
-## 🔎 My Repositories:
+## My Repositories:
 
 - Identity infrastructure prototypes  
 - Personal AI and AI agent experiments  
@@ -20,7 +20,7 @@ Most of my repositories contain experimental prototypes, security research, and 
 - Research artifacts and academic work  
 - Security-focused utilities and tooling  
 
-## 🌐 More Information:
+## More Information:
 
 - Website: https://jchowlabs.com
 - Linkedin: https://linkedin.com/in/jkchow
