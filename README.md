@@ -5,8 +5,8 @@ I'm an AI and security advisor focused on identity security and applied AI syste
 ## Focus Areas:
 
 - Identity Security
-- AI Agents & Automation
 - Conversational AI
+- AI Agents & Automation
 - AI Agent Security
 - Research & Writing
 
