@@ -12,11 +12,11 @@ I focus on identity security and applied AI systems across consumer and enterpri
 
 ## What I Build: 
 
-- Identity infrastructure prototypes  
-- Personal AI and AI agent experiments  
-- Lightweight tools and foundational primitives  
+- Identity security infrastructure
+- Conversational AI (voice and chat)
+- Lightweight tools and utilities
 - Research artifacts and academic work  
-- Security-focused utilities and tooling  
+- Security-focused tools and utilities
 
 ## Links:
 
