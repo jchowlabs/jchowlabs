@@ -1,6 +1,6 @@
 # Hello, I'm Jason 👋
 
-I focus on identity security and applied AI systems across consumer and enterprise environments. Most repositories contain experimental prototypes, security research, and resources related to identity infrastructure, AI agents, and conversational systems.
+I focus on applied AI and security systems across consumer and enterprise environments. My repositories contain a blend of experimental prototypes, security research, tools and production applications.
 
 ## Focus Areas:
 
