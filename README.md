@@ -8,7 +8,7 @@ I focus on applied AI and security systems across consumer and enterprise enviro
 - Conversational AI
 - AI Agents & Automation
 - AI Agent Security
-- Research & Writing
+- Security Research
 
 ## What I Build: 
 
