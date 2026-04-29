@@ -20,5 +20,6 @@ I focus on applied AI and security systems across consumer and enterprise enviro
 
 ## Links:
 
-- Website: https://jchowlabs.com
-- Linkedin: https://linkedin.com/in/jkchow
+- https://jchowlabs.com
+- https://jchowlabs.chat
+- https://linkedin.com/in/jkchow
