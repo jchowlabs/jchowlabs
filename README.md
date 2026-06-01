@@ -1,7 +1,17 @@
-## jchowlabs
+# Jason Chow
 
-Welcome to my Github page. I focus on applied AI and security systems across consumer and enterprise environments. My repositories contain a blend of experimental prototypes, security research, tools and production applications.
+Applied research - security and conversation AI.
 
-- https://jchowlabs.com
-- https://jchowlabs.chat
-- https://linkedin.com/in/jkchow
+I build private AI systems for consumer and enterprise environments:
+- AI agents
+- workflow automation
+- voice systems
+- retrieval infrastructure
+- applied security tooling
+
+---
+
+### Ventures
+- jchowlabs.com
+- jchowlabs.chat
+
