@@ -2,46 +2,48 @@
 
 I build private AI systems focused on voice agents, enterprise automation, retrieval infrastructure, and applied security. Most production work is client-owned or internal, with a focus on practical systems deployed in real-world environments.
 
+<br>
+
 <table>
 <tr>
 
-<td width="48%" valign="top">
+<td width="46%" valign="top">
 
 <pre>
-┌──────────────────────────────┐
-│ JCHOWLABS.COM                │
-├──────────────────────────────┤
-│ Applied AI systems           │
-│ Enterprise infrastructure    │
-│ Security tooling             │
-│ AI automation workflows      │
-│                              │
-│ status: operational          │
-└──────────────────────────────┘
+┌────────────────────────────────┐
+│                                │
+│        JCHOWLABS.COM           │
+│                                │
+├────────────────────────────────┤
+│                                │
+│  • Identity security           │
+│  • Conversational AI           │
+│  • Security research           │
+│  • Vendor agnostic             │
+│                                │
+└────────────────────────────────┘
 </pre>
-
-<a href="https://jchowlabs.com">→ jchowlabs.com</a>
 
 </td>
 
-<td width="4%"></td>
+<td width="8%"></td>
 
-<td width="48%" valign="top">
+<td width="46%" valign="top">
 
 <pre>
-┌──────────────────────────────┐
-│ JCHOWLABS.CHAT               │
-├──────────────────────────────┤
-│ Voice agents                 │
-│ Conversational AI            │
-│ Workflow orchestration       │
-│ Real-time AI systems         │
-│                              │
-│ status: active               │
-└──────────────────────────────┘
+┌────────────────────────────────┐
+│                                │
+│       JCHOWLABS.CHAT           │
+│                                │
+├────────────────────────────────┤
+│                                │
+│  • Voice agents                │
+│  • Conversational systems      │
+│  • Workflow orchestration      │
+│  • Real-time AI systems        │
+│                                │
+└────────────────────────────────┘
 </pre>
-
-<a href="https://jchowlabs.chat">→ jchowlabs.chat</a>
 
 </td>
 
