@@ -1,6 +1,6 @@
-# Jason Chow
+# About
 
-I focus on applied security and AI research with emphasis on identity security, AI safety and conversational AI systems. 
+I focus on applied security and AI research with emphasis on identity security, AI safety and conversational AI systems. Some of my work can be found on companies I currently operate: 
 
 <br>
 
