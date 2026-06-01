@@ -7,7 +7,7 @@ I build private AI systems focused on voice agents, enterprise automation, retri
 
 <td width="50%" valign="top">
 
-```text
+<pre>
 ┌──────────────────────────────┐
 │ JHLABS.COM                   │
 ├──────────────────────────────┤
@@ -18,7 +18,7 @@ I build private AI systems focused on voice agents, enterprise automation, retri
 │                              │
 │ status: operational          │
 └──────────────────────────────┘
-```
+</pre>
 
 <a href="https://jhlabs.com">→ jhlabs.com</a>
 
@@ -26,7 +26,7 @@ I build private AI systems focused on voice agents, enterprise automation, retri
 
 <td width="50%" valign="top">
 
-```text
+<pre>
 ┌──────────────────────────────┐
 │ JHLABS.CHAT                  │
 ├──────────────────────────────┤
@@ -37,7 +37,7 @@ I build private AI systems focused on voice agents, enterprise automation, retri
 │                              │
 │ status: active               │
 └──────────────────────────────┘
-```
+</pre>
 
 <a href="https://jhlabs.chat">→ jhlabs.chat</a>
 
