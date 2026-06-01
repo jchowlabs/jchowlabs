@@ -5,11 +5,11 @@ I build private AI systems focused on voice agents, enterprise automation, retri
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 <pre>
 ┌──────────────────────────────┐
-│ JHLABS.COM                   │
+│ JCHOWLABS.COM                │
 ├──────────────────────────────┤
 │ Applied AI systems           │
 │ Enterprise infrastructure    │
@@ -20,15 +20,17 @@ I build private AI systems focused on voice agents, enterprise automation, retri
 └──────────────────────────────┘
 </pre>
 
-<a href="https://jhlabs.com">→ jhlabs.com</a>
+<a href="https://jchowlabs.com">→ jchowlabs.com</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="4%"></td>
+
+<td width="48%" valign="top">
 
 <pre>
 ┌──────────────────────────────┐
-│ JHLABS.CHAT                  │
+│ JCHOWLABS.CHAT               │
 ├──────────────────────────────┤
 │ Voice agents                 │
 │ Conversational AI            │
@@ -39,7 +41,7 @@ I build private AI systems focused on voice agents, enterprise automation, retri
 └──────────────────────────────┘
 </pre>
 
-<a href="https://jhlabs.chat">→ jhlabs.chat</a>
+<a href="https://jchowlabs.chat">→ jchowlabs.chat</a>
 
 </td>
 
