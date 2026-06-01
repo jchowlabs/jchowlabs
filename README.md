@@ -4,10 +4,10 @@ I focus on applied security and AI research with emphasis on identity security, 
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="46%" valign="top">
+<td width="50%" align="center" valign="top">
 
 <pre>
 ┌────────────────────────────────┐
@@ -19,15 +19,14 @@ I focus on applied security and AI research with emphasis on identity security, 
 │  • Identity security           │
 │  • Conversational AI           │
 │  • Security research           │
+│  • Vendor agnostic             │
 │                                │
 └────────────────────────────────┘
 </pre>
 
 </td>
 
-<td width="8%"></td>
-
-<td width="46%" valign="top">
+<td width="50%" align="center" valign="top">
 
 <pre>
 ┌────────────────────────────────┐
