@@ -1,45 +1,45 @@
-This creates a very deliberate:
-- cyber/infra aesthetic
-- systems engineer feel
-- understated confidence
+# Jason Chow
 
-Honestly this could become your signature style.
+I build private AI systems focused on voice agents, enterprise automation, retrieval infrastructure, and applied security. Most production work is client-owned or internal, with a focus on practical systems deployed in real-world environments.
 
----
-
-# Option 3 — HTML Glassmorphism Cards
-
-GitHub README supports inline HTML.
-
-You can do cleaner visual cards:
-
-```html
 <table>
 <tr>
 
-<td width="50%">
-<h3>JH Labs</h3>
+<td width="50%" valign="top">
 
-Applied AI systems<br>
-Enterprise automation<br>
-Security infrastructure
+```text
+┌──────────────────────────────┐
+│ JHLABS.COM                   │
+├──────────────────────────────┤
+│ Applied AI systems           │
+│ Enterprise infrastructure    │
+│ Security tooling             │
+│ AI automation workflows      │
+│                              │
+│ status: operational          │
+└──────────────────────────────┘
+```
 
-<br><br>
-
-<a href="https://jhlabs.com">Visit →</a>
+<a href="https://jhlabs.com">→ jhlabs.com</a>
 
 </td>
 
-<td width="50%">
-<h3>JH Labs Chat</h3>
+<td width="50%" valign="top">
 
-Voice agents<br>
-AI workflows<br>
-Conversational systems
+```text
+┌──────────────────────────────┐
+│ JHLABS.CHAT                  │
+├──────────────────────────────┤
+│ Voice agents                 │
+│ Conversational AI            │
+│ Workflow orchestration       │
+│ Real-time AI systems         │
+│                              │
+│ status: active               │
+└──────────────────────────────┘
+```
 
-<br><br>
-
-<a href="https://jhlabs.chat">Visit →</a>
+<a href="https://jhlabs.chat">→ jhlabs.chat</a>
 
 </td>
 
