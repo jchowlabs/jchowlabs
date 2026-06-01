@@ -19,7 +19,6 @@ I focus on applied security and AI research with emphasis on identity security, 
 │  • Identity security           │
 │  • Conversational AI           │
 │  • Security research           │
-│  • Vendor agnostic             │
 │                                │
 └────────────────────────────────┘
 </pre>
