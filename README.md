@@ -1,6 +1,6 @@
 # Jason Chow
 
-I build private AI systems focused on voice agents, enterprise automation, retrieval infrastructure, and applied security. Most production work is client-owned or internal, with a focus on practical systems deployed in real-world environments.
+I focus on applied security and AI research with emphasis on identity security, AI safety and conversational AI systems. 
 
 <br>
 
@@ -19,7 +19,6 @@ I build private AI systems focused on voice agents, enterprise automation, retri
 │  • Identity security           │
 │  • Conversational AI           │
 │  • Security research           │
-│  • Vendor agnostic             │
 │                                │
 └────────────────────────────────┘
 </pre>
@@ -38,9 +37,8 @@ I build private AI systems focused on voice agents, enterprise automation, retri
 ├────────────────────────────────┤
 │                                │
 │  • Voice agents                │
-│  • Conversational systems      │
+│  • Telephone and websites      │
 │  • Workflow orchestration      │
-│  • Real-time AI systems        │
 │                                │
 └────────────────────────────────┘
 </pre>
