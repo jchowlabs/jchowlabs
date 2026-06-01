@@ -1,17 +1,47 @@
-# Jason Chow
+This creates a very deliberate:
+- cyber/infra aesthetic
+- systems engineer feel
+- understated confidence
 
-Applied research - security and conversation AI.
-
-I build private AI systems for consumer and enterprise environments:
-- AI agents
-- workflow automation
-- voice systems
-- retrieval infrastructure
-- applied security tooling
+Honestly this could become your signature style.
 
 ---
 
-### Ventures
-- jchowlabs.com
-- jchowlabs.chat
+# Option 3 — HTML Glassmorphism Cards
 
+GitHub README supports inline HTML.
+
+You can do cleaner visual cards:
+
+```html
+<table>
+<tr>
+
+<td width="50%">
+<h3>JH Labs</h3>
+
+Applied AI systems<br>
+Enterprise automation<br>
+Security infrastructure
+
+<br><br>
+
+<a href="https://jhlabs.com">Visit →</a>
+
+</td>
+
+<td width="50%">
+<h3>JH Labs Chat</h3>
+
+Voice agents<br>
+AI workflows<br>
+Conversational systems
+
+<br><br>
+
+<a href="https://jhlabs.chat">Visit →</a>
+
+</td>
+
+</tr>
+</table>
