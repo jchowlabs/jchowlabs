@@ -12,9 +12,9 @@
 │                                │
 ├────────────────────────────────┤
 │                                │
-│  • Identity security           │
-│  • Conversational AI           │
-│  • Security research           │
+│  • AI and security             │
+│  • Interactive labs            │
+│  • Applied research            │
 │                                │
 └────────────────────────────────┘
 </pre>
@@ -30,8 +30,8 @@
 │                                │
 ├────────────────────────────────┤
 │                                │
-│  • Voice agents                │
-│  • Telephone and web           │
+│  • Interactive voice agents    │
+│  • Website and phone channels  │
 │  • Workflow orchestration      │
 │                                │
 └────────────────────────────────┘
@@ -52,9 +52,9 @@
 │                                │
 ├────────────────────────────────┤
 │                                │
-│  • SPF / DKIM / DMARC          │
-│  • Email trust infrastructure  │
-│  • Anti-phishing research      │
+│  • Email infrastructure        │
+│  • Threat detection            │
+│  • Data protection             │
 │                                │
 └────────────────────────────────┘
 </pre>
