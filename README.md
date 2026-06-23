@@ -1,6 +1,6 @@
 # About
 
-I focus on applied security and AI research with emphasis on identity security, voice agents and general security research. Some of my work can be found on the following sites: 
+I focus on applied security and AI research with emphasis on identity security, voice agents and general security research. Some of my work can be found on the following sites:
 
 <br>
 
@@ -35,7 +35,7 @@ I focus on applied security and AI research with emphasis on identity security, 
 ├────────────────────────────────┤
 │                                │
 │  • Voice agents                │
-│  • Telephone and websites      │
+│  • Telephone and web           │
 │  • Workflow orchestration      │
 │                                │
 └────────────────────────────────┘
@@ -44,4 +44,45 @@ I focus on applied security and AI research with emphasis on identity security, 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<pre>
+┌────────────────────────────────┐
+│                                │
+│        JCHOWLABS.ME            │
+│                                │
+├────────────────────────────────┤
+│                                │
+│  • SPF / DKIM / DMARC          │
+│  • Email trust infrastructure  │
+│  • Anti-phishing research      │
+│                                │
+└────────────────────────────────┘
+</pre>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<pre>
+┌────────────────────────────────┐
+│                                │
+│        JCHOWLABS.AI            │
+│                                │
+├────────────────────────────────┤
+│                                │
+│  • Real-time STT / TTS         │
+│  • Voice activity detection    │
+│  • Full-duplex conversations   │
+│                                │
+└────────────────────────────────┘
+</pre>
+
+</td>
+
+</tr>
+
 </table>
