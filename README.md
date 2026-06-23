@@ -1,7 +1,5 @@
 # About
 
-<br>
-
 <table width="100%">
 <tr>
 
