@@ -1,7 +1,5 @@
 # About
 
-I focus on applied security and AI research with emphasis on identity security, voice agents and general security research. Some of my work can be found on the following sites:
-
 <br>
 
 <table width="100%">
